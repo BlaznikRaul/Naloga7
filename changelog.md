@@ -10,3 +10,7 @@ Novo ustvarjeno HTML stran dodajte na svojo vejo B_ime
 Sprožite Pull Request na vejo main in počakajte na odobritev s strani lastnika kode (oseba A)
 Sebe označite kot Assignee
 Spremembe, ki ste jih naredili zapišite v changelog.md
+## Spremembe vodje projekta Vloga A:
+- Dodan README.md
+- Dodana izdaja v1.0.0
+- Nastavljena zaščita veje main
