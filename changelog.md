@@ -14,3 +14,7 @@ Spremembe, ki ste jih naredili zapišite v changelog.md
 - Dodan README.md
 - Dodana izdaja v1.0.0
 - Nastavljena zaščita veje main
+## Spremebe vloge C:
+Dodana datoteka testni_scenariji
+Napisal sem testne scenarije
+Posodobitev osebnih podatkov
