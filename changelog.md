@@ -1,4 +1,4 @@
-# Spremembe vodje projekta Vloga B:
+## Spremembe vodje projekta Vloga B:
 
 Ustvarite svojo vejo B_ime 
 V to vejo dodajte osnovno HTML stran index.html, ki bo prestavljala domačo stran vašega spletnega mesta
